@@ -1,0 +1,17 @@
+{
+  "name": "server_src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "lowdb": "^1.0.0",
+    "md5": "^2.3.0",
+    "mysql2": "^2.2.5"
+  }
+}
